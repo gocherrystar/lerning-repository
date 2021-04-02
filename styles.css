@@ -1,0 +1,35 @@
+h1 {
+  font-family: "Noto Sans SC", sans-serif;
+  color: #433d3c;
+  text-align: left;
+  font-weight: 400;
+  margin: 0;
+  font-size: 36px;
+  line-height: 50px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  font-family: "Noto Sans SC", sans-serif;
+  color: #433d3c;
+  font-weight: 100px;
+  margin: 0;
+  font-size: 16px;
+  line-height: 20px;
+  height: 18px;
+  list-style: none;
+}
+.weather {
+  border: 1px solid #433d3c;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+.temperature {
+  color: #433d3c;
+  font-size: 50px;
+  font-weight: 100px;
+}
